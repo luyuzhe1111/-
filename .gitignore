@@ -1,0 +1,8 @@
+# Keil build output and per-user workspace files
+/MDK-ARM/gongxun_v4/
+/MDK-ARM/*.lst
+*.uvguix.*
+
+# Machine-specific VS Code settings and logs
+/.vscode/
+/MDK-ARM/.vscode/
